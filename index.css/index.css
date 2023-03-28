@@ -25,3 +25,11 @@ nav ul{
 .photos{
 	color: mediumblue;
 }
+.html_photo{
+	height: 300px;
+	width: 500px;
+	margin-left: 19px;
+}
+.section_photo{
+	margin-left: 19px;
+}
