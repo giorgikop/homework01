@@ -1,4 +1,10 @@
 .title_1{
 	margin-left: 19px;
 	color: mediumblue;
+	border-style: solid;
+	border-color: limegreen;
+	border-width: medium;
+	border-radius: 5px;
+	padding: 4px;
+	padding-left: 20px;
 }
