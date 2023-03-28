@@ -8,3 +8,12 @@
 	padding: 4px;
 	padding-left: 20px;
 }
+ul{
+	list-style: none;
+}
+nav ul{
+	margin-left: 19px;
+	padding-left: 0px;
+
+}
+
