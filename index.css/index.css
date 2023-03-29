@@ -28,8 +28,15 @@ nav ul{
 .html_photo{
 	height: 300px;
 	width: 500px;
-	margin-left: 19px;
+	margin-left:;
 }
 .section_photo{
 	margin-left: 19px;
+}
+.main_text{
+	color: mediumblue;
+	margin-left: 19px;
+}
+.main_text_div{
+	padding-right: 250px;
 }
