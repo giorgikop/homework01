@@ -54,7 +54,13 @@ a{
 }
 .number{
 	text-align: center;
+	color: mediumblue;
 }
 span{
 	margin-left: 10px;
+	color: mediumblue;
+}
+footer{
+	margin-top: 70px;
+	border-style: outset;
 }
