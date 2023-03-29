@@ -52,3 +52,9 @@ a{
 .secondary_text_div{
 	display: inline-block;
 }
+.number{
+	text-align: center;
+}
+span{
+	margin-left: 10px;
+}
