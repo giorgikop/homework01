@@ -40,3 +40,15 @@ nav ul{
 .main_text_div{
 	padding-right: 250px;
 }
+.secondary_text{
+	padding-bottom: 2px;
+	color: mediumblue;
+	margin-left: 19px;
+	border-bottom: 4px solid mediumblue;
+}
+a{
+	text-decoration: none;
+}
+.secondary_text_div{
+	display: inline-block;
+}
